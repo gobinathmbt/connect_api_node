@@ -1,0 +1,1007 @@
+{
+  "ServiceData1": [
+    {
+      "id": "1",
+      "mainhead": "Company Role",
+      "form": "corporate",
+      "title": "company",
+      "buttonText": "Collaboration",
+      "imageSrc": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.acewebacademy.com/wp-content/themes/awa/images/ht-img-1.png",
+      "heading": "Collaboration",
+      "content": "The client company actively collaborates with Smart Cliff throughout the process. They provide detailed information about their talent requirements, participate in the selection process, and work closely with Smart Cliff to design the training programs. This collaboration ensures that the professionals acquired and trained align with the client company`s specific needs and culture."
+    },
+    {
+      "id": "2",
+      "form": "corporate",
+      "title": "company",
+      "buttonText": "Guidance and Direction",
+      "imageSrc": "https://nitdata.com/wp-content/uploads/2021/08/6461-1-1024x640.jpg",
+      "heading": "Guidance and Direction",
+      "content": "The client company plays a crucial role in guiding Smart Cliff about their organizational culture, values, and specific requirements. By providing insights into the desired skills and competencies, the client company enables Smart Cliff to tailor the training programs accordingly, ensuring that the professionals are equipped with the right capabilities."
+    },
+    {
+      "id": "3",
+      "form": "corporate",
+      "title": "company",
+      "buttonText": "Integration and Support",
+      "imageSrc": "https://www.scnsoft.com/application-integration/cover-pic-integration-services.svg",
+      "heading": "Integration and Support",
+      "content": "Once the professionals are deployed, the client company takes responsibility for integrating them into their existing teams and processes. They provide the necessary resources, infrastructure, and support to ensure a smooth onboarding experience. This support enables the professionals to quickly adapt to their new roles and contribute effectively to the client company`s operations."
+    },
+    {
+      "id": "4",
+      "form": "corporate",
+      "title": "company",
+      "buttonText": "Performance Management",
+      "imageSrc": "https://www.pockethrms.com/wp-content/uploads/2022/05/What-is-a-Training-Management-System.svg",
+      "heading": "Performance Management",
+      "content": "The client company actively engages in monitoring and managing the performance of the professionals. They provide feedback, set goals, and offer guidance to ensure that the deployed professionals meet the organization`s expectations. By actively managing performance, the client company maintains a high level of productivity and ensures the professionals ongoing development."
+    },
+    {
+      "id": "5",
+      "form": "corporate",
+      "title": "company",
+      "buttonText": "Long-term Engagement",
+      "imageSrc": "https://otomeyt.ai/wp-content/uploads/2021/12/featured-2.jpg",
+      "heading": "Long-term Engagement",
+      "content": "The client company maintains a long-term relationship with Smart Cliff, benefiting from ongoing support, training, and talent development services. This collaboration enables the client company to adapt to changing market demands and maintain a competitive edge. By continuously engaging with Smart Cliff, the client company ensures a sustainable talent pipeline for future needs."
+    },
+    {
+      "id": "6",
+      "form": "corporate",
+      "mainhead": "smartCliff 'S Role",
+      "title": "smartcliff",
+      "buttonText": "Talent Acquisition",
+      "imageSrc": "https://img.freepik.com/free-vector/employees-with-laptops-learning-professional-trainig-internal-education-employee-education-professional-development-program-concept_335657-806.jpg",
+      "heading": "Talent Acquisition",
+      "content": "In this phase, Smart Cliff actively seeks out and recruits highly qualified professionals based on the specific requirements and criteria set by the client company. They employ various strategies, such as job portals, networking, and partnerships, to attract top talent and ensure a pool of candidates that meet the client company`s needs."
+    },
+    {
+      "id": "7",
+      "form": "corporate",
+      "title": "smartcliff",
+      "buttonText": "Training and Skill Development",
+      "imageSrc": "https://media.istockphoto.com/id/1250276441/vector/%D1%81reative-of-business-graphics-the-company-is-engaged-in-joint-search-for-ideas-abstract.jpg?s=612x612&w=0&k=20&c=Rt6CPaK_ydUf3c5Btri-AkAYkC-bQDABz3l7EpblUXI=",
+      "heading": "Training and Skill Development",
+      "content": "Once the professionals are hired, Smart Cliff takes charge of their training and skill enhancement. They design and deliver comprehensive training programs tailored to the needs of the client company. Through these programs, professionals acquire the necessary knowledge and skills to excel in their roles within the organization."
+    },
+    {
+      "id": "8",
+      "form": "corporate",
+      "title": "smartcliff",
+      "buttonText": "Performance Evaluation",
+      "imageSrc": "https://media.istockphoto.com/id/1284962417/vector/%C3%B0%C3%B1%C3%B0%C3%B0%C3%B0%C3%B0%C3%B1%C3%B0%C2%B5-rgb.jpg?s=612x612&w=0&k=20&c=zr-R1m9vYR1lxNfeAYoi2sdcxRrZq7RHXQPjzeTRHFA=",
+      "heading": "Performance Evaluation",
+      "content": "Smart Cliff conducts periodic performance evaluations of the professionals to assess their progress and identify areas for improvement. By monitoring their performance, Smart Cliff provides the client company with valuable feedback and insights, enabling them to make informed decisions regarding the deployment and development of these professionals."
+    },
+    {
+      "id": "9",
+      "form": "corporate",
+      "title": "smartcliff",
+      "buttonText": "Deployment and Integration",
+      "imageSrc": "https://miro.medium.com/v2/resize:fit:1358/1*TfCR1IJK2JeldyOYdOxZCQ.jpeg",
+      "heading": "Deployment and Integration",
+      "content": "In this phase, Smart Cliff coordinates the seamless integration of the trained professionals into the client company`s operations. They work closely with both the professionals and the client company to ensure a smooth transition. By effectively managing the deployment process, Smart Cliff ensures that the professionals are well-integrated and able to contribute to the client company`s goals and objectives."
+    },
+    {
+      "id": "10",
+      "form": "corporate",
+      "title": "smartcliff",
+      "buttonText": "Support and Monitoring",
+      "imageSrc": "https://img.freepik.com/free-vector/flat-illustration-stock-trader-working-computer-with-graphs-man-investor-using-pc-analyzing-charts-diagrams-exchange-market-finances-cryptocurrency-investing_74855-20567.jpg?size=626&ext=jpg&ga=GA1.1.1775553844.1683366724&semt=ais",
+      "heading": "Support and Monitoring",
+      "content": "Throughout the deployment phase, Smart Cliff provides ongoing support and monitoring to the professionals and the client company. They address any concerns or issues that may arise and offer assistance to ensure a high level of satisfaction and productivity. By providing continuous support, Smart Cliff helps the client company maximize the potential of the deployed professionals."
+    }
+  ],
+  "ServiceData2": [
+    {
+      "id": "1",
+      "form": "corporate",
+      "mainhead": "Company Role",
+      "title": "company",
+      "buttonText": "Job Descriptions",
+      "imageSrc": "https://img.freepik.com/free-vector/choosing-best-candidate-concept_52683-43377.jpg?size=626&ext=jpg&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Providing Job Descriptions",
+      "content": "As the hiring organization, you play a vital role in defining the job descriptions, responsibilities, and qualifications for the positions you wish to fill. Clear and detailed job descriptions enable us to identify the most suitable candidates who possess the requisite skills and experience."
+    },
+    {
+      "id": "2",
+      "title": "company",
+      "form": "corporate",
+      "buttonText": "Collaboration",
+      "imageSrc": "https://img.freepik.com/free-vector/creative-team-concept-illustration_114360-3894.jpg?size=626&ext=jpg&ga=GA1.2.1775553844.1683366724&semt=sph",
+      "heading": "Collaborating in the Selection Process",
+      "content": "Your participation and involvement in the candidate selection process are crucial. We work closely with your hiring team, providing regular updates on candidate profiles, coordinating interviews, and facilitating candidate assessments. Your feedback and insights play a significant role in making informed hiring decisions."
+    },
+    {
+      "id": "3",
+      "form": "corporate",
+      "title": "company",
+      "buttonText": "Final",
+      "imageSrc": "https://img.freepik.com/free-vector/career-opportunity-life-coaching-self-development-path-direction-choosing-decision-making-problem-solving-activity-best-decision-here-concept_335657-685.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.1.1775553844.1683366724&semt=ais",
+      "heading": "Final Decision Making",
+      "content": "Ultimately, the final decision to hire a candidate rests with your organization. We present you with a shortlist of the most qualified candidates, along with our recommendations, but the ultimate choice is yours. We offer guidance and support throughout the decision-making process to ensure you make the best hiring decisions for your company."
+    },
+    {
+      "id": "4",
+      "form": "corporate",
+      "mainhead": "smartCliff 'S Role",
+      "title": "smartcliff",
+      "buttonText": "Event Planning and Management",
+      "imageSrc": "https://img.freepik.com/free-vector/time-management-marketers-teamwork-media-planning-media-representation-control-reach-your-client-best-media-plan_335657-23.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Event Planning and Management",
+      "content": "Our experienced team of event planners will work closely with you to understand your requirements and objectives. We will assist in designing and coordinating every aspect of your corporate event, from conceptualization to execution. Our attention to detail ensures that every element, from venue selection to logistics and scheduling, is meticulously planned."
+    },
+    {
+      "id": "5",
+      "form": "corporate",
+      "title": "smartcliff",
+      "buttonText": "Venue Selection",
+      "imageSrc": "https://img.freepik.com/free-vector/hiring-concept-illustration_114360-581.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Venue Selection",
+      "content": "We have a wide network of partnerships with top-notch venues suitable for corporate events. Based on your preferences and event requirements, we will recommend and secure the ideal venue that aligns with your vision and budget."
+    },
+    {
+      "id": "6",
+      "form": "corporate",
+      "title": "smartcliff",
+      "buttonText": "Professional Staffing",
+      "imageSrc": "https://img.freepik.com/free-vector/recruit-agent-analyzing-candidates_74855-4565.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Professional Staffing",
+      "content": "Smart Cliff provides highly skilled and professional staff members who are trained to handle various corporate functions. Whether you need event coordinators, receptionists, technical support, or any other role, our team will ensure that your event runs smoothly and efficiently."
+    },
+    {
+      "id": "7",
+      "form": "corporate",
+      "title": "smartcliff",
+      "buttonText": "Streamlined Hiring Process",
+      "imageSrc": "https://img.freepik.com/free-vector/choice-worker-concept_23-2148627679.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Streamlined Hiring Process",
+      "content": "We streamline the entire hiring process, minimizing administrative burdens and saving your valuable time. Our team handles all aspects of candidate communication, scheduling interviews, coordinating assessments, and managing candidate feedback, allowing you to focus on core business activities."
+    }
+  ],
+  "ServiceData3": [
+    {
+      "id": "1",
+      "form": "corporate",
+      "mainhead": "Company Role",
+      "title": "company",
+      "buttonText": "Assessing Training Needs",
+      "imageSrc": "https://img.freepik.com/free-vector/organic-flat-people-business-training-illustration_23-2148911450.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Assessing Training Needs",
+      "content": "As an organization availing our corporate lateral training service, it is crucial to assess your employees` training needs. This includes identifying skill gaps, determining the desired outcomes, and establishing specific training objectives. By actively participating in this process, you ensure that our training programs align with your organizational goals."
+    },
+    {
+      "id": "2",
+      "form": "corporate",
+      "title": "company",
+      "buttonText": "Engaging Employees",
+      "imageSrc": "https://img.freepik.com/free-vector/business-team-discussing-project_74855-6272.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.1.1775553844.1683366724&semt=ais",
+      "heading": "Engaging Employees",
+      "content": "To maximize the benefits of the training, it is essential for your company to encourage employee participation and engagement. This involves communicating the importance of the training, setting expectations, and motivating employees to actively participate in the learning process. By fostering a positive learning culture, your organization can create an environment conducive to professional development."
+    },
+    {
+      "id": "3",
+      "form": "corporate",
+      "title": "company",
+      "buttonText": "Providing Resources",
+      "imageSrc": "https://img.freepik.com/free-vector/mechanism-teamwork-cartoon-characters-spinning-gears-together-co-working-collaboration-partnership-team-building-cooperation-technology-concept-illustration_335657-2038.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.1.1775553844.1683366724&semt=ais",
+      "heading": "Providing Resources",
+      "content": "Your company plays a vital role in providing the necessary resources to support the training initiative. This includes allocating time for employees to attend training sessions, providing access to required technology or tools, and creating opportunities for employees to apply the newly acquired knowledge and skills in their day-to-day work."
+    },
+    {
+      "id": "4",
+      "form": "corporate",
+      "mainhead": "smartCliff 'S Role",
+      "title": "smartcliff",
+      "buttonText": "Customized Training Programs",
+      "imageSrc": "https://img.freepik.com/free-vector/marketing-students-create-corporate-identity_335657-3061.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Customized Training Programs",
+      "content": "Smart Cliff takes a personalized approach to corporate lateral training by understanding the unique requirements of each organization. We collaborate closely with our clients to identify the specific skill gaps and areas for improvement within their teams. Based on this analysis, we design and deliver customized training programs that address these specific needs."
+    },
+    {
+      "id": "5",
+      "form": "corporate",
+      "title": "smartcliff",
+      "buttonText": "Expert Facilitators",
+      "imageSrc": "https://img.freepik.com/free-vector/organic-flat-medical-conference-illustration_23-2148892742.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Expert Facilitators",
+      "content": "We engage highly skilled and experienced trainers who are subject matter experts in their respective fields. These facilitators bring a wealth of industry knowledge and practical insights to the training sessions, ensuring that participants receive the highest quality instruction. They employ interactive teaching methods, engaging participants in discussions, case studies, and hands-on exercises to facilitate effective learning."
+    },
+    {
+      "id": "6",
+      "form": "corporate",
+      "title": "smartcliff",
+      "buttonText": "Cutting-Edge Content",
+      "imageSrc": "https://img.freepik.com/free-vector/design-process-concept-landing-page_52683-25952.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Cutting-Edge Content",
+      "content": "Smart Cliff develops up-to-date and relevant training content that aligns with the latest industry trends and best practices. We ensure that our training materials are comprehensive, practical, and applicable to the participants` real-world challenges. By incorporating the most recent advancements and emerging technologies, we equip professionals with the skills they need to stay competitive in their respective fields."
+    }
+  ],
+  "ServiceData4": [
+    {
+      "id": "1",
+      "mainhead": "Institute Role",
+      "form": "institute",
+      "title": "company",
+      "buttonText": "Curriculum Implementation",
+      "imageSrc": "https://img.freepik.com/free-vector/hr-managers-hiring-candidates-with-hr-software-resume-computer-hr-software-human-resources-technology-employee-effectivity-control-concept_335657-738.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Curriculum Implementation",
+      "content": "The institution collaborates with Smart Cliff to implement the tailored curriculum, incorporating the recommended enhancements and training modules into their existing training programs. They ensure that the courses are delivered effectively, maintaining the high-quality standards set by Smart Cliff."
+    },
+    {
+      "id": "2",
+      "form": "institute",
+      "title": "company",
+      "buttonText": "Infrastructure and Facilities",
+      "imageSrc": "https://img.freepik.com/free-vector/real-estate-searching-illustration-with-phone-magnifier_23-2148655253.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Infrastructure and Facilities",
+      "content": "The institution provides the necessary infrastructure, such as classrooms, laboratories, and equipment, to facilitate practical training sessions. They create a conducive learning environment, equipped with the required resources to support the training needs of the students."
+    },
+    {
+      "id": "3",
+      "form": "institute",
+      "title": "company",
+      "buttonText": "Student Support",
+      "imageSrc": "https://img.freepik.com/free-vector/co-workers-concept-landing-page-template_23-2148292728.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Student Support",
+      "content": "The institution plays a vital role in providing academic and administrative support to students throughout their training journey. They offer guidance, mentoring, and counseling services to ensure students' overall well-being and success in the program."
+    },
+    {
+      "id": "4",
+      "form": "institute",
+      "title": "company",
+      "buttonText": "Industry Partnerships",
+      "imageSrc": "https://img.freepik.com/free-vector/production-business-city-partnership_3446-578.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Industry Partnerships",
+      "content": "The institution actively collaborates with Smart Cliff to establish and maintain industry partnerships. They leverage these connections to arrange internships, industry visits, and placement opportunities for their students. The institution acts as a liaison between students and the industry, facilitating valuable interactions and opportunities for professional growth."
+    },
+    {
+      "id": "5",
+      "form": "institute",
+      "mainhead": "smartCliff 'S Role",
+      "title": "smartcliff",
+      "buttonText": "Expert Guidance",
+      "imageSrc": "https://img.freepik.com/free-vector/choice-worker-concept_23-2148633772.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Expert Guidance",
+      "content": "Smart Cliff provides expert guidance to institutions in designing and developing industry-relevant training programs. By leveraging their extensive knowledge and experience, Smart Cliff assists institutions in creating comprehensive curricula that align with current market demands."
+    },
+    {
+      "id": "6",
+      "form": "institute",
+      "title": "smartcliff",
+      "buttonText": "Curriculum Enhancement",
+      "imageSrc": "https://img.freepik.com/free-vector/online-job-interview_23-2148644500.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Curriculum Enhancement",
+      "content": "Smart Cliff collaborates with institutions to enhance their existing curricula, incorporating cutting-edge technologies, industry best practices, and emerging trends. This ensures that the training programs offered by the institutions remain up-to-date and equip students with the skills necessary to excel in their chosen fields."
+    },
+    {
+      "id": "7",
+      "form": "institute",
+      "title": "smartcliff",
+      "buttonText": "Skill Development",
+      "imageSrc": "https://img.freepik.com/premium-vector/skills-concept-education-training-improvement-people-get-knowledge-build-career-illustration_277904-4760.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Skill Development",
+      "content": "Smart Cliff focuses on skill development by offering specialized training modules tailored to meet the specific needs of various industries. They employ qualified trainers and subject matter experts who deliver practical and hands-on training sessions to students, enabling them to acquire relevant skills and competencies."
+    },
+    {
+      "id": "8",
+      "form": "institute",
+      "title": "smartcliff",
+      "buttonText": "Industry Connect",
+      "imageSrc": "https://img.freepik.com/free-vector/illustration-social-media-concept_53876-17852.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Industry Connect",
+      "content": "Smart Cliff establishes strong industry connections and partnerships, facilitating internships, on-the-job training, and industry visits for students enrolled in the institution's training programs. This exposure allows students to gain real-world experience, understand industry dynamics, and establish professional networks, increasing their employability."
+    },
+    {
+      "id": "9",
+      "form": "institute",
+      "title": "smartcliff",
+      "buttonText": "Placement Assistance",
+      "imageSrc": "https://img.freepik.com/free-vector/recruitment-agency-searching-job-applicants_1262-19873.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Placement Assistance",
+      "content": "Smart Cliff takes an active role in connecting institutions with potential employers. They work closely with their industry network to identify job opportunities and match the skill sets of trained students with the requirements of hiring companies. Through career counseling, resume building, interview preparation, and job fairs, Smart Cliff assists students in securing suitable placements."
+    }
+  ],
+  "ServiceData5": [
+    {
+      "id": "1",
+      "form": "institute",
+      "mainhead": "Institute Role",
+      "title": "company",
+      "buttonText": "Collaborative Planning",
+      "imageSrc": "https://img.freepik.com/free-vector/team-working-startup_1262-19962.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Collaborative Planning",
+      "content": "Institutions play an integral role in the institution service by actively collaborating with Smart Cliff during the planning phase. This involves defining the specific requirements, job descriptions, and skill sets desired for each position. By providing clear guidelines and expectations, institutions help streamline the hiring and training processes."
+    },
+    {
+      "id": "2",
+      "form": "institute",
+      "title": "company",
+      "buttonText": "Selection Involvement",
+      "imageSrc": "https://img.freepik.com/free-vector/illustrated-choice-worker-concept_52683-43237.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Selection Involvement",
+      "content": "While Smart Cliff handles the initial screening and selection processes, institutions are actively involved in the final decision-making. Institutions have the opportunity to interview shortlisted candidates, assess their suitability, and make the final selection based on their organizational needs and culture."
+    },
+    {
+      "id": "3",
+      "form": "institute",
+      "title": "company",
+      "buttonText": "Onboarding Support",
+      "imageSrc": "https://img.freepik.com/free-vector/company-has-achieved-successful-business-deal_1150-43185.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.1.1775553844.1683366724&semt=ais",
+      "heading": "Onboarding Support",
+      "content": "Once candidates are deployed to the institution, it is the institution's responsibility to provide necessary onboarding support. This includes assigning mentors or supervisors to guide new hires, introducing them to the institution's policies and procedures, and facilitating their integration into the existing team."
+    },
+    {
+      "id": "4",
+      "form": "institute",
+      "title": "company",
+      "buttonText": "Performance Evaluation",
+      "imageSrc": "https://img.freepik.com/free-vector/employer-meeting-job-applicant-pre-employment-assessment-employee-evaluation-assessment-form-report-performance-review-concept-illustration_335657-2058.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Performance Evaluation",
+      "content": "Institutions are responsible for evaluating the performance of the deployed professionals on an ongoing basis. This involves monitoring their progress, providing feedback, and offering opportunities for growth and development within the organization."
+    },
+    {
+      "id": "5",
+      "form": "institute",
+      "mainhead": "smartCliff 'S Role",
+      "title": "smartcliff",
+      "buttonText": "Talent Sourcing",
+      "imageSrc": "https://img.freepik.com/premium-vector/audience-segmentation-concept_118813-6853.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Talent Sourcing",
+      "content": "Smart Cliff takes charge of sourcing and attracting potential candidates who possess the required skills and qualifications desired by institutions. Through various channels, such as online job portals, networking events, and partnerships with educational institutions, Smart Cliff identifies talented individuals who are a good fit for the institutions needs."
+    },
+    {
+      "id": "6",
+      "form": "institute",
+      "title": "smartcliff",
+      "buttonText": "Screening and Selection",
+      "imageSrc": "https://img.freepik.com/premium-vector/hiring-recruitment-concept-people-searching-candidate-new-employee-recruitment-process-illustration_138260-630.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Screening and Selection",
+      "content": "Once potential candidates are identified, Smart Cliff conducts rigorous screening processes to assess their suitability for the institution. This includes evaluating their qualifications, experience, and assessing their aptitude for the specific role. By employing thorough screening methods, Smart Cliff ensures that only the most qualified candidates move forward in the hiring process."
+    },
+    {
+      "id": "7",
+      "form": "institute",
+      "title": "smartcliff",
+      "buttonText": "Training and Development",
+      "imageSrc": "https://img.freepik.com/free-vector/coach-speaking-before-audience-mentor-presenting-charts-reports-employees-meeting-business-training-seminar-conference-vector-illustration-presentation-lecture-education_74855-8294.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Training and Development",
+      "content": "Smart Cliff recognizes the importance of providing comprehensive training and development programs to enhance the skills and knowledge of the selected candidates. Through partnerships with industry experts, Smart Cliff offers specialized training programs tailored to the specific requirements of the institution. This ensures that candidates are equipped with the necessary skills and knowledge to excel in their respective roles."
+    },
+    {
+      "id": "8",
+      "form": "institute",
+      "title": "smartcliff",
+      "buttonText": "Deployment and Integration",
+      "imageSrc": "https://img.freepik.com/free-vector/programmers-develop-program-platforms-cross-platform-programming-cross-platform-development-structure-concept-white-background-bright-vibrant-violet-isolated-illustration_335657-330.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Deployment and Integration",
+      "content": "After candidates successfully complete the training programs, Smart Cliff facilitates their seamless integration into the institution. This includes coordinating the logistics of their deployment, assisting with administrative tasks, and providing ongoing support to ensure a smooth transition. Smart Cliff's aim is to ensure that candidates are effectively integrated into the institution's workforce and can contribute to its success from day one."
+    }
+  ],
+  "ServiceData6": [
+    {
+      "id": "1",
+      "form": "institute",
+      "mainhead": "Institute Role",
+      "title": "company",
+      "buttonText": "Commitment to Excellence",
+      "imageSrc": "https://img.freepik.com/free-vector/young-guys-with-star-award_74855-6139.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Commitment to Excellence",
+      "content": "Institutions partnering with Smart Cliffs CoE must demonstrate a commitment to excellence. They should have a strong desire to continuously improve and be open to adopting innovative practices and methodologies."
+    },
+    {
+      "id": "2",
+      "form": "institute",
+      "title": "company",
+      "buttonText": "Active Participation",
+      "imageSrc": "https://img.freepik.com/free-vector/company-enployees-leader-having-successful-money-making-idea-intellectual-capital-company-human-resources-money-making-sources-concept_335657-740.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Active Participation",
+      "content": "Institutions actively engage with Smart Cliffs experts, collaborating closely to define goals, share information, and implement recommended strategies. They provide necessary data, feedback, and insights to facilitate the process of improvement."
+    },
+    {
+      "id": "3",
+      "form": "institute",
+      "title": "company",
+      "buttonText": "Implementation and Integration",
+      "imageSrc": "https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149379502.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.1.1775553844.1683366724&semt=ais",
+      "heading": "Implementation and Integration",
+      "content": "Institutions are responsible for implementing the recommended strategies and incorporating best practices into their daily operations. They work towards integrating these changes at various levels, fostering a culture of continuous improvement within their organization."
+    },
+    {
+      "id": "4",
+      "form": "institute",
+      "title": "company",
+      "buttonText": "Performance Feedback",
+      "imageSrc": "https://img.freepik.com/free-vector/flat-feedback-concept-with-devices_23-2148959887.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Performance Feedback",
+      "content": "Institutions actively participate in the performance monitoring and evaluation process. They provide feedback on the effectiveness of implemented strategies and share relevant data for accurate assessment. This feedback loop helps Smart Cliff refine and tailor their guidance to better suit the institution's specific needs."
+    },
+    {
+      "id": "5",
+      "form": "institute",
+      "mainhead": "smartCliff 'S Role",
+      "title": "smartcliff",
+      "buttonText": "Strategic Planning",
+      "imageSrc": "https://img.freepik.com/free-vector/hand-drawn-business-strategy_23-2149150736.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Strategic Planning",
+      "content": "Smart Cliff assists the institution in formulating a strategic plan for the CoE. They collaborate with key stakeholders to identify goals, objectives, and performance indicators. By aligning the CoEs activities with the institution's vision, Smart Cliff ensures the CoE contributes to the institution's long-term success."
+    },
+    {
+      "id": "6",
+      "form": "institute",
+      "title": "smartcliff",
+      "buttonText": "Knowledge Management",
+      "imageSrc": "https://img.freepik.com/free-vector/hand-drawn-innovation-concept_23-2149171106.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Knowledge Management",
+      "content": "Smart Cliff helps establish effective knowledge management practices within the Institution CoE. They facilitate the capture, organization, and dissemination of knowledge and best practices. By leveraging technology and collaboration tools, Smart Cliff ensures that valuable insights and expertise are shared across the institution, enabling continuous learning and improvement."
+    },
+    {
+      "id": "7",
+      "form": "institute",
+      "title": "smartcliff",
+      "buttonText": "Skill Development",
+      "imageSrc": "https://img.freepik.com/free-vector/qualification-increase-course-skills-improvement-coaching_335657-3310.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Skill Development",
+      "content": "Smart Cliff provides training and skill development programs to enhance the capabilities of individuals within the institution. They design and deliver workshops, seminars, and mentoring sessions to promote professional growth and expertise. By investing in the development of personnel, Smart Cliff contributes to building a talented workforce within the institution."
+    },
+    {
+      "id": "8",
+      "form": "institute",
+      "title": "smartcliff",
+      "buttonText": "Innovation and Research",
+      "imageSrc": "https://img.freepik.com/free-vector/business-people-analyzing-lightbulb-competitive-intelligence-environment-information-marketplace-analysis-concept_335657-223.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Innovation and Research",
+      "content": "Smart Cliff encourages and supports innovation and research initiatives within the Institution CoE. They facilitate idea generation, prototype development, and experimentation. Through collaboration with experts and leveraging their network, Smart Cliff helps the institution stay at the forefront of advancements in their industry."
+    },
+    {
+      "id": "9",
+      "form": "institute",
+      "title": "smartcliff",
+      "buttonText": "Monitoring",
+      "imageSrc": "https://img.freepik.com/free-vector/cro-analyst-specialist-increase-customers-percentage-conversion-rate-optimization-digital-marketing-system-lead-attraction-marketing-concept-bright-vibrant-violet-isolated-illustration_335657-235.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Performance Monitoring and Evaluation",
+      "content": "Smart Cliff establishes performance monitoring mechanisms to track the effectiveness and impact of the Institution CoE. They develop metrics and evaluation frameworks to assess the achievement of goals and identify areas for improvement. Through regular monitoring and reporting, Smart Cliff ensures the CoE's activities align with the institution's objectives."
+    }
+  ],
+  "ServiceData7": [
+    {
+      "id": "1",
+      "form": "students",
+      "mainhead": "SmartCliff 'S Role   ",
+      "title": "company",
+      "buttonText": "Learning Paths",
+      "imageSrc": "https://img.freepik.com/free-vector/career-path-concept-illustration_114360-13664.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Personalized Learning Paths",
+      "content": "We recognize that each student has unique strengths, interests, and learning styles. We work closely with students to create personalized learning paths that align with their goals and aspirations. By tailoring the content and approach, we ensure that students make the most of their upskilling journey."
+    },
+    {
+      "id": "2",
+      "form": "students",
+      "title": "company",
+      "buttonText": "Catalog",
+      "imageSrc": "https://img.freepik.com/free-vector/script-writing-software-engineering-coding-workshop-code-created-workshop-online-programming-course-apps-games-development-class-concept_335657-818.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Diverse Course Catalog",
+      "content": "Smart Cliff offers a diverse range of courses and modules to cater to different subjects, disciplines, and skill sets. Whether students are looking to strengthen their STEM knowledge, develop their creative abilities, or acquire practical skills for the professional world, we have a wide array of courses to choose from."
+    },
+    {
+      "id": "3",
+      "form": "students",
+      "title": "company",
+      "buttonText": "Learning Environment",
+      "imageSrc": "https://img.freepik.com/free-vector/flat-university-concept-background_52683-11177.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Interactive Learning Environment",
+      "content": "We foster an engaging and interactive learning environment to maximize student engagement and retention. Through a combination of multimedia resources, virtual labs, interactive exercises, and collaborative projects, we make learning enjoyable and immersive."
+    },
+    {
+      "id": "4",
+      "form": "students",
+      "title": "company",
+      "buttonText": "Industry-Relevant Content",
+      "imageSrc": "https://img.freepik.com/free-vector/search-concept-landing-page_52683-18617.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Industry-Relevant Content",
+      "content": "Our courses are designed to align with industry trends and requirements. We collaborate with leading professionals and industry experts to ensure that our students receive the most up-to-date and relevant content. By staying ahead of the curve, we equip students with the skills and knowledge needed to succeed in the job market."
+    },
+    {
+      "id": "5",
+      "form": "students",
+      "title": "company",
+      "buttonText": "Assessments and Progress Tracking",
+      "imageSrc": "https://img.freepik.com/free-vector/people-near-huge-paper-tablet-with-report-water-flow-checkboxes-analyzing-data-illustration_335657-309.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Assessments and Progress Tracking",
+      "content": "Smart Cliff incorporates regular assessments and progress tracking mechanisms to monitor students' learning outcomes. Through quizzes, assignments, and performance evaluations, we provide valuable feedback to students, helping them identify areas for improvement and celebrate their achievements."
+    },
+    {
+      "id": "6",
+      "form": "students",
+      "title": "company",
+      "buttonText": "Guidance and Placement",
+      "imageSrc": "https://img.freepik.com/free-vector/employee-hiring-business-document-hr-management-employment-agreement-employment-contract-form-employee-employer-relations-concept_335657-229.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Career Guidance and Placement Support",
+      "content": "We go beyond academics and provide comprehensive career guidance and placement support to our students. Our team assists students in exploring career options, developing job-ready skills, and connecting with industry professionals through networking events and internship opportunities."
+    }
+  ],
+  "ServiceData8": [
+    {
+      "id": "1",
+      "form": "students",
+      "mainhead": "MCA Program ",
+      "title": "company",
+      "buttonText": "Curriculum Development",
+      "imageSrc": "https://img.freepik.com/free-vector/online-job-interview_23-2148644500.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Curriculum Development",
+      "content": "Smart Cliff designs a well-structured and up-to-date curriculum for the MCA program, considering industry trends and requirements. They collaborate with experienced educators and professionals to create a curriculum that covers both theoretical foundations and practical skills."
+    },
+    {
+      "id": "2",
+      "form": "students",
+      "title": "company",
+      "buttonText": "Expert Faculty",
+      "imageSrc": "https://img.freepik.com/free-vector/students-studying-talking_1262-21513.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Expert Faculty",
+      "content": "Smart Cliff employs a team of highly qualified and experienced faculty members who possess expertise in various domains of computer applications. These professors guide and mentor students throughout their MCA journey, providing valuable insights and knowledge."
+    },
+    {
+      "id": "3",
+      "form": "students",
+      "title": "company",
+      "buttonText": "Infrastructure",
+      "imageSrc": "https://img.freepik.com/free-vector/road-set-isometric-composition-with-view-two-houses-surrounded-by-motorway-with-cars-vector-illustration_1284-66344.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=sph",
+      "heading": "State-of-the-Art Infrastructure",
+      "content": "Smart Cliff ensures that students have access to modern infrastructure and technology-driven learning environments. They invest in advanced computer labs, software, and tools, allowing students to gain hands-on experience and experiment with the latest industry practices."
+    },
+    {
+      "id": "4",
+      "form": "students",
+      "title": "company",
+      "buttonText": "Practical Training",
+      "imageSrc": "https://img.freepik.com/free-vector/organic-flat-people-business-training_23-2148909572.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Practical Training",
+      "content": "Recognizing the importance of practical knowledge, Smart Cliff incorporates practical training sessions, projects, and case studies into the MCA program. Students get the opportunity to apply their theoretical knowledge to real-world scenarios, enhancing their problem-solving abilities."
+    },
+    {
+      "id": "5",
+      "form": "students",
+      "title": "company",
+      "buttonText": "Industry Collaborations",
+      "imageSrc": "https://img.freepik.com/premium-vector/online-conclusion-transaction-opening-new-startup-business-handshake-via-phone_566886-681.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Industry Collaborations",
+      "content": "Smart Cliff establishes partnerships with leading organizations and industry experts to facilitate internships, industrial visits, and guest lectures. This enables students to gain exposure to the industry, learn from professionals, and explore potential career opportunities."
+    },
+    {
+      "id": "6",
+      "form": "students",
+      "title": "company",
+      "buttonText": "Placement Assistance",
+      "imageSrc": "https://img.freepik.com/free-vector/choosing-best-candidate-concept_52683-43377.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Placement Assistance",
+      "content": "Smart Cliff understands the significance of employment opportunities for MCA graduates. Hence, they provide dedicated placement assistance by organizing campus recruitment drives, inviting top-tier companies for placements, and grooming students for interviews through workshops and mock sessions."
+    }
+  ],
+  "ServiceData9": [
+    {
+      "id": "1",
+      "mainhead": "Employee Program ",
+      "form": "employee",
+      "title": "company",
+      "buttonText": "Counseling",
+      "imageSrc": "https://img.freepik.com/free-vector/hand-drawn-visit-psychologist-concept_52683-69070.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=sph",
+      "heading": "Career Counseling",
+      "content": "We provide expert career counseling services to help individuals identify their strengths, interests, and goals. Our experienced career advisors work closely with employees to assess their current skills, explore potential career paths, and develop a strategic plan to achieve their objectives."
+    },
+    {
+      "id": "2",
+      "form": "employee",
+      "title": "company",
+      "buttonText": "Skill Development",
+      "imageSrc": "https://img.freepik.com/free-vector/ideas-creativity-knowledge-inspiration-concept-businessman-research-internet-big-data-idea-availability-knowledge-developing-taking-risk-support-solving-problem-business_1150-58788.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Skill Development",
+      "content": "Smart Cliff recognizes the importance of continuous learning and skill development. We offer various training programs and workshops to enhance employees' professional skills and broaden their knowledge base. These programs cover a wide range of topics, from technical skills to soft skills such as communication, leadership, and teamwork."
+    },
+    {
+      "id": "3",
+      "form": "employee",
+      "title": "company",
+      "buttonText": "Development Plans",
+      "imageSrc": "https://img.freepik.com/premium-vector/business-analyst-with-laptop-idea-lightbulb-waymark-decision-management-enterprise-analysis_566886-5700.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Personalized Development Plans",
+      "content": "Each employee receives a personalized development plan based on their career goals and aspirations. Our team collaborates closely with individuals to create a roadmap for their professional growth, setting milestones and identifying the necessary resources and opportunities to achieve success."
+    },
+    {
+      "id": "4",
+      "form": "employee",
+      "title": "company",
+      "buttonText": "Networking Opportunities",
+      "imageSrc": "https://img.freepik.com/premium-vector/access-internet-network-that-is-encrypted-security-operating-search-engines-database_4968-1843.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.1.1775553844.1683366724&semt=ais",
+      "heading": "Networking Opportunities",
+      "content": "Smart Cliff understands the value of networking in today's professional landscape. We facilitate networking events, industry conferences, and online communities where employees can connect with like-minded professionals, mentors, and potential collaborators. These opportunities help individuals expand their professional network and open doors to new possibilities."
+    },
+    {
+      "id": "5",
+      "form": "employee",
+      "title": "company",
+      "buttonText": "Job Placement",
+      "imageSrc": "https://img.freepik.com/free-vector/tiny-people-searching-business-opportunities_74855-19928.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Job Placement Assistance",
+      "content": "When employees are ready to take the next step in their careers, Smart Cliff offers job placement assistance. We leverage our extensive network of partner organizations to connect individuals with relevant job opportunities, provide resume and interview preparation support, and offer guidance throughout the job search process."
+    },
+    {
+      "id": "6",
+      "form": "employee",
+      "title": "company",
+      "buttonText": "Ongoing Support",
+      "imageSrc": "https://img.freepik.com/free-vector/flat-design-illustration-customer-support_23-2148887720.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Ongoing Support",
+      "content": "Our commitment to employees extends beyond the initial engagement. Smart Cliff provides ongoing support and guidance even after individuals have achieved their immediate career objectives. We offer resources for professional growth, mentorship programs, and access to a vibrant community of professionals who can provide valuable insights and advice."
+    }
+  ],
+  "ServiceData10": [
+    {
+      "id": "1",
+      "form": "employee",
+      "mainhead": "Lateral Program ",
+      "title": "company",
+      "buttonText": "Training",
+      "imageSrc": "https://img.freepik.com/free-vector/seminar-concept-illustration_114360-7480.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=sph",
+      "heading": "Training Needs Assessment",
+      "content": "We begin by conducting a comprehensive assessment of your employees' current skills and identifying any skill gaps that may exist. This analysis helps us customize the training program to meet your organization's specific needs and goals."
+    },
+    {
+      "id": "2",
+      "form": "employee",
+      "title": "company",
+      "buttonText": "Curriculum Development",
+      "imageSrc": "https://img.freepik.com/free-vector/businessman-choosing-options-computer_1262-19222.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Curriculum Development",
+      "content": "Our team of experienced instructional designers and subject matter experts collaborates with you to develop a tailored curriculum for employee lateral training. We incorporate industry best practices, cutting-edge methodologies, and practical case studies to ensure that the training content is relevant and engaging."
+    },
+    {
+      "id": "3",
+      "form": "employee",
+      "title": "company",
+      "buttonText": "Training Delivery",
+      "imageSrc": "https://img.freepik.com/free-vector/organic-flat-people-business-training_23-2148919413.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Training Delivery",
+      "content": "Smart Cliff employs a variety of training delivery methods to cater to different learning styles and preferences. We offer in-person workshops, virtual classrooms, e-learning modules, and blended learning approaches, depending on your requirements. Our trainers are skilled facilitators who create a supportive and interactive learning environment."
+    },
+    {
+      "id": "4",
+      "form": "employee",
+      "title": "company",
+      "buttonText": "Skill Enhancement",
+      "imageSrc": "https://img.freepik.com/premium-vector/illustration-vector-graphic-cartoon-character-skills_516790-385.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.1.1775553844.1683366724&semt=ais",
+      "heading": "Skill Enhancement",
+      "content": "Our lateral training programs focus on developing specific skills and competencies required for employees to transition smoothly into new roles. This may include training on technical skills, leadership abilities, project management, communication skills, problem-solving, or any other relevant areas."
+    },
+    {
+      "id": "5",
+      "form": "employee",
+      "title": "company",
+      "buttonText": "Continuous Evaluation",
+      "imageSrc": "https://img.freepik.com/free-vector/approval-mark-product-advantage-rating-reviews-meeting-requirements_335657-3106.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Continuous Evaluation",
+      "content": "We believe in measuring the effectiveness of our training programs. We implement evaluation mechanisms such as assessments, quizzes, and feedback surveys to gauge the progress of participants and identify areas that require further attention. This enables us to continually refine and improve our training offerings."
+    },
+    {
+      "id": "6",
+      "form": "employee",
+      "title": "company",
+      "buttonText": "Post-Training Support",
+      "imageSrc": "https://img.freepik.com/free-vector/working-day-scene-with-people-office_52683-63258.jpg?size=626&ext=jpg&uid=R103517641&ga=GA1.2.1775553844.1683366724&semt=ais",
+      "heading": "Post-Training Support",
+      "content": "Smart Cliff provides ongoing support to participants even after the training is complete. We offer access to resources, tools, and additional learning materials to reinforce the training outcomes. Our aim is to ensure that employees can apply their newly acquired skills in real-world scenarios effectively."
+    }
+  ],
+  "HireFromusSection": [
+    {
+      "year": "2022",
+      "month": "Jan",
+      "num": "152"
+    },
+    {
+      "year": "2022",
+      "month": "Feb",
+      "num": "152"
+    },
+    {
+      "year": "2022",
+      "month": "March",
+      "num": "152"
+    },
+    {
+      "year": "2022",
+      "month": "April",
+      "num": "152"
+    },
+    {
+      "year": "2022",
+      "month": "May",
+      "num": "152"
+    },
+    {
+      "year": "2022",
+      "month": "Jun",
+      "num": "152"
+    },
+    {
+      "year": "2022",
+      "month": "July",
+      "num": "152"
+    },
+    {
+      "year": "2022",
+      "month": "Aug",
+      "num": "152"
+    },
+    {
+      "year": "2022",
+      "month": "Sep",
+      "num": "152"
+    },
+    {
+      "year": "2022",
+      "month": "Oct",
+      "num": "152"
+    },
+    {
+      "year": "2022",
+      "month": "Nov",
+      "num": "152"
+    },
+    {
+      "month": "Dec",
+      "year": 2022,
+      "num": 15
+    }
+  ],
+  "HomeSection3": {
+    "box1": {
+      "heading": "Learn Once Grow Forever with Best Software Training in Coimbatore",
+      "content": "Up-skilling yourself with the Best Software Training Institute in Coimbatore and enhancing ones’ talent in this fast-paced digital world are inevitable, and hence corporates and business world prefer only those talents who could deliver maximum benefits. Being the best Software Training Institute in Coimbatore, smartcliff guides the aspirants to undergo thorough learning and appropriate technology deployment to build a successful career in IT"
+    },
+    "box2": {
+      "heading": "Let Us Polish Your Skills To Turn You An Inevitable Asset",
+      "content": "As a key player in the market for over a decade, smartcliff excels in providing advanced software training to students. We also take pride in offering customized training packages based on your individual skill sets. Moreover, smartcliff brings together a team of highly skilled trainers who possess expertise in teaching you the full life cycle of any technology you aspire to master. We assure you that we provide the most cutting-edge technologies of the decade."
+    },
+    "box3": {
+      "heading": "Why Do You Need Software Training in Coimbatore?",
+      "content": "Software training is vital for everyone who wants to enhance your career by obtaining the skills required to compete in today’s market. Despite the high demand for software developers, many do not have the education to meet these needs. In this fast-paced digital world, upgrading your skill set and enhancing talent are necessary. With smartcliff, you can develop a successful career in the software industry. With the best software courses for freshers, we offer comprehensive IT training and appropriate technology deployment."
+    }
+  },
+  "courses": [
+    {
+      "title": "Html",
+      "iconname": "html",
+      "category": "Software-Development-Track",
+      "rating": "5",
+      "level": "Advanced",
+      "Certification": "https://campus.w3schools.com/cdn/shop/files/html-certificate-of-completion-preview_840x665_crop_center.png?v=1658398173\" alt=\"HTML Certificate",
+      "shortDesc": "Learn HTML from scratch with our beginner-friendly course Master the basics, create webpages, add text, images, and more. Start your HTML journey today",
+      "longDesc": "Learn HTMs, and lists. You'll also learn how to add images, links, and tables to make your web content more interactive.  But that's not all! We'll cover advanced topics like forms, CSS integration, and multimedia embedding. You'll discover how to create user-friendly forms that collect valuable information from your website visitors our experienced instructors will guide you through hands-on exercises and real-world examples. You'll get plenty of practice writing HTML code and see immediate results in your web browser. Plus, you'll gain valuable insights into best practices and industry standards.  By the end of this course, you'll have the skills to create professional-looking webpages from scratch. Enroll now and embark on your HTML journey with Smartcliff Technologies. Join our community of learners and take the first step towards becoming a web development pro. Don't miss out on this opportunity to expand your coding skills and unleash your creativity on the web!",
+      "duration": "50weeks",
+      "id": 1
+    },
+    {
+      "title": "Css",
+      "iconname": "css",
+      "category": "Software-Development-Track",
+      "rating": "3",
+      "level": "Advanced",
+      "Certification": "https://campus.w3schools.com/cdn/shop/files/html-certificate-of-completion-preview_840x665_crop_center.png?v=1658398173\" alt=\"HTML Certificate",
+      "shortDesc": "CSS enhances webpage appearance & layout. It styles HTML elements with colors, fonts, and more, improving visual appeal & user experience.",
+      "longDesc": "CSS (Cascading Style Sheets) is a crucial language in web development that controls the visual presentation and layout of HTML elements on a webpage. With CSS, you can customize colors, fonts, backgrounds, spacing, borders, and more, creating a unique design that aligns with your website's branding and purpose. It separates the structure (HTML) from the presentation (CSS), resulting in cleaner code and easier maintenance. CSS utilizes selectors to target specific elements, applying styles to them. This flexibility allows for precise customization. Advanced techniques include responsive design, which ensures your webpage looks great on different screen sizes. CSS also enables animations and transitions, allowing you to create interactive and visually appealing elements. By mastering CSS, you gain the power to enhance the user experience and create visually stunning webpages.",
+      "duration": "50weeks",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Java",
+      "category": "Mechanical-Design",
+      "rating": "5",
+      "iconname": "java",
+      "level": "Beginner"
+    },
+    {
+      "id": 4,
+      "title": "React",
+      "category": "Mechanical-Design",
+      "rating": "3",
+      "iconname": "react",
+      "level": "Intermediate"
+    },
+    {
+      "id": 5,
+      "title": "Mongo",
+      "category": "Mechanical-Design",
+      "rating": "4",
+      "iconname": "mongo",
+      "level": "Intermediate"
+    },
+    {
+      "id": 6,
+      "title": "C#",
+      "category": "Testing-Track",
+      "rating": 5,
+      "iconname": "c#",
+      "level": "Advanced"
+    },
+    {
+      "id": 7,
+      "title": "Node",
+      "category": "Automotive-Embed-Track",
+      "rating": "4",
+      "iconname": "node",
+      "level": "Intermediate"
+    },
+    {
+      "id": 8,
+      "title": "Angular",
+      "category": "Automotive-Embed-Track",
+      "rating": "5",
+      "iconname": "angular",
+      "level": "Intermediate"
+    },
+    {
+      "id": 9,
+      "title": "Vue Js",
+      "category": "Software-Development-Track",
+      "rating": "3",
+      "iconname": "FaVuejs",
+      "level": "Beginner"
+    }
+  ],
+  "enquiry": [
+    {
+      "fullName": "Gobinath",
+      "email": "gobinath2486@gmail.com",
+      "mobileNumber": "7904192802",
+      "course": "Html",
+      "enquiry": "Enquiry For Html",
+      "_id": 1
+    },
+    {
+      "fullName": "Subasree",
+      "email": "subasreekabilan1999@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "Css",
+      "enquiry": "A Enquiry call for Css",
+      "_id": 2
+    },
+    {
+      "fullName": "Vishnu",
+      "email": "vishnu@gmail.com",
+      "mobileNumber": "9564196802",
+      "course": "Mongo",
+      "enquiry": "this is a message to get a call for some clarification on mongo course",
+      "_id": 3
+    },
+    {
+      "fullName": "Surya",
+      "email": "gobinathmn77@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "Css",
+      "enquiry": "Hlo",
+      "_id": 4
+    },
+    {
+      "fullName": "Gobinath",
+      "email": "omegaleogaming@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "Css",
+      "enquiry": "zxcxz",
+      "_id": 5
+    },
+    {
+      "fullName": "Fury",
+      "email": "gobinath2486@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "Angular",
+      "enquiry": "Hlo this is fury",
+      "_id": 6
+    },
+    {
+      "fullName": "LeoYt",
+      "email": "atomixleoyt@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "Node",
+      "enquiry": "This Is leoYT",
+      "_id": 7
+    },
+    {
+      "fullName": "LeoYt",
+      "email": "gobinathmn77@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "React",
+      "enquiry": "Conqueror",
+      "_id": 8
+    },
+    {
+      "fullName": "Bala",
+      "email": "gobinath2486@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "Node",
+      "enquiry": "Hi This is Bala",
+      "_id": 9
+    },
+    {
+      "fullName": "Sriram",
+      "email": "gobinathmn77@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "Angular",
+      "enquiry": "Hi",
+      "_id": 10
+    },
+    {
+      "fullName": "Gobinath",
+      "email": "omegaleogaming@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "Csharp",
+      "enquiry": "Hi This eenquiry For Csharp",
+      "_id": 11
+    },
+    {
+      "fullName": "Rooban",
+      "email": "omegaleogaming@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "Node",
+      "enquiry": "Hi this is rooban",
+      "_id": 12
+    },
+    {
+      "fullName": "Gobinath",
+      "email": "omegaleogaming@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "React",
+      "enquiry": "zxc zxc",
+      "_id": 13
+    },
+    {
+      "fullName": "Gobinath",
+      "email": "gobinathmn77@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "Java",
+      "enquiry": "xfvxfc",
+      "_id": 14
+    },
+    {
+      "fullName": "Gobinath",
+      "email": "omegaleogaming@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "C#",
+      "enquiry": "Hi",
+      "_id": 15
+    },
+    {
+      "fullName": "Gobinath",
+      "email": "omegaleogaming@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "React",
+      "enquiry": "hi",
+      "_id": 16
+    },
+    {
+      "fullName": "Gobinath",
+      "email": "omegaleogaming@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "Node",
+      "enquiry": "sdfsd",
+      "_id": 17
+    },
+    {
+      "fullName": "Gobinath",
+      "email": "omegaleogaming@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "React",
+      "enquiry": "zczxvz",
+      "_id": 18
+    },
+    {
+      "fullName": "Gobinath",
+      "email": "omegaleogaming@gmail.com",
+      "mobileNumber": "9566406802",
+      "course": "Css",
+      "enquiry": "hi",
+      "_id": 19
+    }
+  ]
+}

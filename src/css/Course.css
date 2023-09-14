@@ -1,0 +1,172 @@
+#courseexpandmaster .indexsection p {
+  margin-bottom: 0;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 2em;
+}
+#courseexpandmaster .indexsection .formsection {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#courseexpandmaster .indexsection .btnsection {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+#courseexpandmaster .indexsection .icon img {
+  height: 45px;
+  width: 45px;
+}
+#courseexpandmaster .indexsection .icon {
+  margin-left: 3%;
+  gap: 32px;
+}
+#courseexpandmaster .indexsection .icon .col-sm-2 {
+  background-color: white;
+  border: 2px solid purple;
+  padding: 2px;
+  border-radius: 20px;
+}
+#courseexpandmaster .indexsection .icon .text {
+  color: rgb(0, 0, 0);
+  padding-top: 8px;
+}
+#courseexpandmaster .indexsection .icon .num {
+  color: rgb(0, 221, 255);
+}
+
+#courseexpandmaster .indexsection .iconsection {
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+
+#courseexpandmaster .section2 {
+  margin-top: 60px;
+}
+
+#courseexpandmaster .section2 .contentsection {
+  background-color: white;
+  border: 2px solid purple;
+  padding: 20px;
+}
+
+#courseexpandmaster .section2 .contentsection h3 {
+  padding: 20px;
+}
+#courseexpandmaster .section2 .contentsection p {
+  padding: 20px;
+}
+
+#courseexpandmaster .section2 .formsection {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#courseexpandmaster .section3 {
+  margin-top: 60px;
+}
+
+#courseexpandmaster .section3 h4 {
+  text-align: center;
+}
+
+#courseexpandmaster .section3 .row {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#courseexpandmaster .section3 .row .col-sm-3 {
+  background: white;
+  border: 2px solid purple;
+  border-radius: 20px;
+}
+
+#courseexpandmaster .section4,
+.section5,
+.section6,
+.section7 {
+  margin-top: 60px;
+}
+
+#courseexpandmaster .section5 {
+  background-color: white;
+  border: 2px solid purple;
+  padding: 20px;
+}
+
+#courseexpandmaster .section6 h2 {
+  text-align: center;
+}
+
+#courseexpandmaster .section7 {
+  border: 2px solid purple;
+  padding: 20px 10px 20px 0px;
+  min-height: 580px;
+}
+
+#courseexpandmaster .section7 .spread-tabs {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+#courseexpandmaster .maintabsection h3 {
+  text-align: center;
+}
+#courseexpandmaster .maintabsection h6 {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+#courseexpandmaster .maintabsection .tabsection1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+#courseexpandmaster .maintabsection .tabsection1 .row {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#courseexpandmaster .img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#courseexpandmaster .maintabsection .tabsection1 .row .col-sm-5 {
+  border: 2px solid purple;
+  border-radius: 15px;
+  padding: 10px;
+  height: 200px;
+}
+#courseexpandmaster
+  .maintabsection
+  .tabsection1
+  .row
+  .col-sm-5
+  .display-cards-content {
+  margin-top: 20px;
+}
+
+#courseexpandmaster .maintabsection .tabsection2 .row {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+}
+
+#courseexpandmaster .end {
+  margin-top: 30px;
+}

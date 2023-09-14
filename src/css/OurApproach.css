@@ -1,0 +1,119 @@
+
+#approach-page1 .middle {
+  margin-top: 40px;
+}
+#approach-page1 .main {
+  margin-top: 40px;
+}
+#approach-page1  .main h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+ 
+    line-height: 58px;
+    text-align: center;
+    color: #000000;
+}
+#approach-page1  .main h5 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+
+    line-height: 44px;
+    text-align: center;
+    color: #000000;
+}
+#approach-page1  .main .btn2 {
+display: flex;
+align-items:center ;
+justify-content: center;
+margin-top: 30px;
+}
+
+
+#approach-page1 .maindiv {
+  border-top: 2px solid black;
+}
+
+#approach-page1 .subdiv {
+margin-top: 30px;
+}
+
+#approach-page1 .childdiv {
+  background-color: #ffffff;
+  border-radius: 20px;
+}
+
+#approach-page1 .a {
+  background: #eeeeee;
+}
+
+#approach-page1 .childhead {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  color: rgb(255, 157, 0);
+  line-height: 39px;
+  text-align: center;
+
+}
+
+#approach-page1 .childcontent {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+ font-size: 14px;
+  line-height: 29px;
+
+  padding: 20px;
+  color: #000000;
+}
+
+#approach-page1 .a {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 45px;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #000000;
+}
+
+#approach-page1 .parentdiv {
+  text-align: center;
+  position: relative;
+  top: -28px;
+}
+
+
+
+#approach-page2{
+    margin-top: 40px;
+}
+
+#approach-page2 .tabs{
+margin-top: 60px;
+}
+#approach-page2  .tabs .rows{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  }
+
+
+#approach-page2 .tabbtn Button{
+margin-top: 20px;
+} 
+
+
+
+#approach-page2 .text {
+  margin-top: 80px;
+padding-bottom: 40px;
+}
+
+#approach-page2 .heading1 {
+  display: flex;
+  align-items: center;
+}

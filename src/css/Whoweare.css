@@ -1,0 +1,107 @@
+#whowe-page1 .main {
+    margin-top: 40px;
+  }
+  #whowe-page1  .main h3 {
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 800;
+      font-size: 28px;
+      line-height: 58px;
+      text-align: center;
+      color: #000000;
+  }
+  #whowe-page1  .main h6 {
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 600;
+      font-size: 15px;
+      line-height: 44px;
+      text-align: center;
+      color: #000000;
+  }
+  #whowe-page1  .main .btn2 {
+  display: flex;
+  align-items:center ;
+  justify-content: center;
+  margin-top: 30px;
+  }
+  
+
+  
+#whowe-page2 .tabs{
+    margin-top: 60px;
+    }
+
+  
+#whowe-page2 .tabs .rows{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    }
+
+
+
+    
+  #whowe-page2 .text {
+    margin-top: 80px;
+  padding-bottom: 40px;
+  }
+  
+  #whowe-page2 .heading1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+  }
+  #whowe-page2 .heading1 .maintext {
+    font-size: 28px;
+  }
+
+
+
+
+
+
+
+  #whowe-page2 .sub1 {
+    margin-top: 50px;
+  }
+  
+  #whowe-page2 .box1 {
+    background-color: #000000;
+    border-radius: 20px;
+    padding: 10px;
+    height: 95%;
+  }
+  
+  #whowe-page2 .lefthead {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 39px;
+    text-align: center;
+    color: #9f5600;
+    margin-top: 30px;
+  }
+  
+  #whowe-page2 .leftcontent {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 29px;
+    text-align: center;
+    color: #000000;
+
+   
+    
+  }
+
+
+  #whowe-page2 .btn3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+  }
